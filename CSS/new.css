@@ -106,7 +106,6 @@ header {
 /* INICIO */
 main .banner {
   display: flex;
-  align-content: center;
   gap: 20px;
   background-color: white;
 }
