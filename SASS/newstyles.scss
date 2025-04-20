@@ -35,7 +35,7 @@ main {
     text-align: center;
 
     div {
-      background-color: $color-footer-bg;
+      background-color: $color-secundario;
       flex: 1;
       padding: 20px;
     }
@@ -45,7 +45,7 @@ main {
     display: flex;
     padding: 0;
     width: 100%;
-    color: $color-footer-bg;
+    color: $color-secundario;
 
     div {
       background-color: $color-fondo;
@@ -130,6 +130,7 @@ main {
 }
 
 /* PRODUCTOS */ /*aca se rompio todo jaja igual se que es por la estructura del HTML*/
+
 .main-content {
     padding: 20px;
   }
